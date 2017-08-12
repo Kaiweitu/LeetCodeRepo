@@ -5,5 +5,5 @@ This repo is used to record the solutions for the problems on [LeetCode]:<https:
 ## Understanding and solutions 
 ### #3 Longest Substring Without Repeating Characters 
 **Description:** 
-Given a string, find the length of the longest substring without repeating characters. 
+Given a string, find the length of the longest substring without repeating characters.  
 **Solution:**
